@@ -5,3 +5,11 @@ A simple mod that aims to extend the usefulness of the speedrun timer
 ### Features
 - Displays the time since the last checkpoint above the timer<br>
 <img width="200" alt="CheckpointTimerExample.png" src="https://raw.githubusercontent.com/10-days-till-xmas/TimerExtensions/refs/heads/master/Resources/CheckpointTimerExample.png"/>
+
+
+### Roadmap
+- Adjust the appearance to make it look cleaner
+- Allow the time to be reset and paused with button presses
+- Allow storing a list of last splits to be displayed (wait a sec this is gonna turn into livesplit)
+- Create another utility mod that allows for arbitrarily placed checkpoints, 
+  and then use this mod to reset the timer

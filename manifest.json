@@ -1,0 +1,9 @@
+﻿{
+  "name":  "TimerExtensions",
+  "description":  "Additional utility for the ultrakill speedrun timer ",
+  "version_number":  "1.0.0",
+  "website_url":  "https://github.com/10-days-till-xmas/TimerExtensions",
+  "dependencies":  [
+    "bbepis-BepInExPack-5.4.2121"
+  ]
+}
